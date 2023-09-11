@@ -13,13 +13,16 @@ O objetivo principal deste projeto é criar uma aplicação de gestão de tarefa
 - Visual Studio Code (VSCode)
 - Outras tecnologias relevantes
 
-## 🛰 Anotações e Mapeamento 🛰 
+## 🛰 Anotações e imagem 🛰 
 
 Este projeto está organizado em várias partes, incluindo:
 
 - Models: onde estão definidos os modelos de banco de dados para as tarefas.
 - Views: onde a lógica de visualização e controle é definida.
 - Templates: onde os modelos HTML para a interface do usuário estão localizados.
+
+![Interface](/home/luana/Imagens/Capturas de tela/img.png)
+
 
 
 ### 🌌 Estrutura de Diretórios 🌌
